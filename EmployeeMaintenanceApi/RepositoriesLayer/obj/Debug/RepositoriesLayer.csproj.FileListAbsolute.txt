@@ -1,0 +1,15 @@
+C:\Users\linco\Desktop\EmployeeMaintenanceApi\RepositoriesLayer\bin\Debug\RepositoriesLayer.dll.config
+C:\Users\linco\Desktop\EmployeeMaintenanceApi\RepositoriesLayer\bin\Debug\RepositoriesLayer.dll
+C:\Users\linco\Desktop\EmployeeMaintenanceApi\RepositoriesLayer\bin\Debug\RepositoriesLayer.pdb
+C:\Users\linco\Desktop\EmployeeMaintenanceApi\RepositoriesLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\linco\Desktop\EmployeeMaintenanceApi\RepositoriesLayer\bin\Debug\EntityFramework.dll
+C:\Users\linco\Desktop\EmployeeMaintenanceApi\RepositoriesLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\linco\Desktop\EmployeeMaintenanceApi\RepositoriesLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\linco\Desktop\EmployeeMaintenanceApi\RepositoriesLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\linco\Desktop\EmployeeMaintenanceApi\RepositoriesLayer\bin\Debug\EntityFramework.xml
+C:\Users\linco\Desktop\EmployeeMaintenanceApi\RepositoriesLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\linco\Desktop\EmployeeMaintenanceApi\RepositoriesLayer\obj\Debug\RepositoriesLayer.csprojAssemblyReference.cache
+C:\Users\linco\Desktop\EmployeeMaintenanceApi\RepositoriesLayer\obj\Debug\RepositoriesLayer.csproj.CoreCompileInputs.cache
+C:\Users\linco\Desktop\EmployeeMaintenanceApi\RepositoriesLayer\obj\Debug\RepositoriesLayer.csproj.CopyComplete
+C:\Users\linco\Desktop\EmployeeMaintenanceApi\RepositoriesLayer\obj\Debug\RepositoriesLayer.dll
+C:\Users\linco\Desktop\EmployeeMaintenanceApi\RepositoriesLayer\obj\Debug\RepositoriesLayer.pdb
