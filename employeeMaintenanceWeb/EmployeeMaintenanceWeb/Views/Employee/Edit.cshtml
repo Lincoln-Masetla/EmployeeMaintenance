@@ -1,0 +1,62 @@
+﻿
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Edit Employee
+            </div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-lg-8">
+                        <form role="form">
+                            <div class="form-group hidden">
+                                <input type="text" class="form-control" placeholder="Enter First Name" id="txtEditEmployeeId">
+                            </div>
+
+                            <div class="form-group">
+                                <label for="txtEditFirstName">First Name</label>
+                                <input type="text" class="form-control requiredEdit" placeholder="Enter First Name" id="txtEditFirstName" required>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="txtEditLastName">Last Name</label>
+                                <input type="text" class="form-control requiredEdit" placeholder="Enter Last Name" id="txtEditLastName" required>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="txtEditBirthDate">Birth Date</label>
+                                <input type='text' class="form-control requiredEdit" placeholder="Enter Birth Date" id='txtEditBirthDate' required />
+                            </div>
+
+                            <div class="form-group">
+                                <label for="txtEditEmployeeNumber">Employee Number</label>
+                                <input type="number" class="form-control requiredEdit" placeholder="Enter Employee Number" id="txtEditEmployeeNumber" required>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="txtEditEmployedDate">Employed Date</label>
+                                <input type='text' class="form-control requiredEdit" placeholder="Enter Employed Date" id='txtEditEmployedDate' required />
+                            </div>
+
+                            <div class="form-group">
+                                <label for="txtEditTerminatedDate">Terminated Date</label>
+                                <input type='text' class="form-control" placeholder="Enter Terminated Date" id='txtEditTerminatedDate' />
+                            </div>
+
+                            <div class="checkbox">
+                                <label><input type="checkbox" id="chkEditActive"> Active</label>
+                            </div>
+                        </form>
+                    </div>
+                    <!-- /.col-lg-6 (nested) -->
+                </div>
+                <!-- /.row (nested) -->
+            </div>
+            <!-- /.panel-body -->
+        </div>
+        <!-- /.panel -->
+    </div>
+    <!-- /.col-lg-12 -->
+</div>
+<button type="button" class="btn btn-primary" id="btnSaveEdit" onclick="submitEditEmployee()">Save</button>
+<button type="button" class="btn btn-warning" id="btnShowEdit" onclick="Edit()">Edit Employee</button>
